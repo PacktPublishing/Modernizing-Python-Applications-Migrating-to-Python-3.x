@@ -42,3 +42,7 @@ Have some understanding of agile, tooling, infrastructure, and DevOps to test an
 * [The Complete Python Course [Video]](https://www.packtpub.com/programming/the-complete-python-course-video)
 
 * [The Data Science Workshop](https://www.packtpub.com/data/the-data-science-workshop)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839217463">https://packt.link/free-ebook/9781839217463 </a> </p>
